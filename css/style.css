@@ -144,9 +144,7 @@ page-header {
   font-weight: 400;
   font-size: 14px;
   line-height: calc(24 / 14);
-
   letter-spacing: 0.03em;
-
   color: var(--second-color);
 }
 
@@ -154,7 +152,6 @@ page-header {
   font-weight: 500;
   font-size: 16px;
   line-height: calc(19 / 16);
-
   letter-spacing: 0.03em;
 
   color: var(--main-color);
@@ -164,9 +161,7 @@ page-header {
   font-weight: 400;
   font-size: 16px;
   line-height: calc(19 / 16);
-
   letter-spacing: 0.03em;
-
   color: var(--second-color);
 }
 .contacts {
@@ -211,10 +206,8 @@ page-header {
   font-weight: 500;
   font-size: 16px;
   line-height: calc(24 / 16);
-
   text-align: center;
   letter-spacing: 0.03em;
-
   color: var(--main-color);
 }
 .hero-last-btn:hover,
@@ -228,9 +221,7 @@ page-header {
   font-weight: 700;
   font-size: 18px;
   line-height: calc(36 / 18);
-
   letter-spacing: 0.06em;
-
   color: var(--main-color);
 }
 
@@ -238,9 +229,7 @@ page-header {
   font-weight: 400;
   font-size: 16px;
   line-height: calc(30 / 16);
-
   letter-spacing: 0.03em;
-
   color: var(--second-color);
 }
 .list-item {
@@ -254,8 +243,6 @@ page-header {
   font-weight: 400;
   font-size: 14px;
   line-height: calc(24 / 14);
-
   letter-spacing: 0.03em;
-
   color: rgba(255, 255, 255, 0.6);
 }
