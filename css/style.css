@@ -112,7 +112,7 @@ line-height: calc(30 / 16);
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background: var(--accent-color);
+  background:  #188CE8;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
 }
@@ -136,7 +136,7 @@ line-height: calc(30 / 16);
 }
 .section {
 
-  background: #F5F5F5;;
+  background: #FFFFFF;
 }
 
 .section-name {
@@ -256,7 +256,7 @@ background: #2196F3;
 }
 
 .hero-last {
-  background: #f5f5f5;
+  background: #FFFFFF;
 }
 .title-text {
   font-weight: 700;
