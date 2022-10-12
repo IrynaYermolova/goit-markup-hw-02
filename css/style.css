@@ -6,15 +6,16 @@ body {
   --accent-color: #2196f3;
   --main-color: #212121;
   --second-color: #757575;
+  --main-bg-color:#FFFFFF;
 }
 page-header {
-  background: #ffffff;
+  background: var(--main-bg-color);
 }
 .list {
   list-style: none;
 }
 .list-name{
-  background: #FFFFFF;
+  background: var(--main-bg-color);
 }
 .list-name{
   list-style: none;
@@ -95,7 +96,7 @@ page-header {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 
-  color: #ffffff;
+  color: var(--main-bg-color);
 }
 
 .hero-btn {
@@ -136,7 +137,7 @@ line-height: calc(30 / 16);
 }
 .section {
 
-  background: #FFFFFF;
+  background: var(--main-bg-color);
 }
 
 .section-name {
@@ -194,7 +195,7 @@ line-height: calc(30 / 16);
   font-size: 14px;
   line-height: calc(24 / 14);
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: var(--main-bg-color);
 }
 /*подвал главной страницы */
 
@@ -245,18 +246,18 @@ line-height: calc(30 / 16);
 
 .hero-last-btn:hover,
 .hero-last-btn:focus{
-color: #FFFFFF;
+color: var(--main-bg-color);
 background: #2196F3;
 }
 .button{
   list-style: none;
 }
 .list-item{
-  background:  #FFFFFF;
+  background: var(--main-bg-color);
 }
 
 .hero-last {
-  background: #FFFFFF;
+  background: var(--main-bg-color);
 }
 .title-text {
   font-weight: 700;
